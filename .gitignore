@@ -1,0 +1,6 @@
+**/.vscode/**
+**/build
+/data_odometry_gray.zip
+/dataset
+*.zip
+
